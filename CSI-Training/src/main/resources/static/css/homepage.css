@@ -1,0 +1,14 @@
+.nav-color {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    padding: 10px 30px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    flex: 0 0 auto;
+    border-bottom: 1px solid rgb(12, 11, 11);
+    background-color: rgb(122, 122, 126);
+    column-gap: 20px;
+}
